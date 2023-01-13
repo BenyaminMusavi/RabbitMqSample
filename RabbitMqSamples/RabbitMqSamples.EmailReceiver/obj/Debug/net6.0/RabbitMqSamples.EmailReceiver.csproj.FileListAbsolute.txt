@@ -1,0 +1,17 @@
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\bin\Debug\net6.0\RabbitMqSamples.EmailReceiver.exe
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\bin\Debug\net6.0\RabbitMqSamples.EmailReceiver.deps.json
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\bin\Debug\net6.0\RabbitMqSamples.EmailReceiver.runtimeconfig.json
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\bin\Debug\net6.0\RabbitMqSamples.EmailReceiver.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\bin\Debug\net6.0\RabbitMqSamples.EmailReceiver.pdb
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\RabbitMqSamples.EmailReceiver.csproj.AssemblyReference.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\RabbitMqSamples.EmailReceiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\RabbitMqSamples.EmailReceiver.AssemblyInfoInputs.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\RabbitMqSamples.EmailReceiver.AssemblyInfo.cs
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\RabbitMqSamples.EmailReceiver.csproj.CoreCompileInputs.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\RabbitMqSamples.EmailReceiver.csproj.CopyComplete
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\RabbitMqSamples.EmailReceiver.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\refint\RabbitMqSamples.EmailReceiver.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\RabbitMqSamples.EmailReceiver.pdb
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\RabbitMqSamples.EmailReceiver.genruntimeconfig.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.EmailReceiver\obj\Debug\net6.0\ref\RabbitMqSamples.EmailReceiver.dll

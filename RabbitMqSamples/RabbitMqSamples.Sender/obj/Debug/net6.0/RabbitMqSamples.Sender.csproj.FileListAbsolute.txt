@@ -1,0 +1,17 @@
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\bin\Debug\net6.0\RabbitMqSamples.Sender.exe
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\bin\Debug\net6.0\RabbitMqSamples.Sender.deps.json
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\bin\Debug\net6.0\RabbitMqSamples.Sender.runtimeconfig.json
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\bin\Debug\net6.0\RabbitMqSamples.Sender.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\bin\Debug\net6.0\RabbitMqSamples.Sender.pdb
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\RabbitMqSamples.Sender.csproj.AssemblyReference.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\RabbitMqSamples.Sender.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\RabbitMqSamples.Sender.AssemblyInfoInputs.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\RabbitMqSamples.Sender.AssemblyInfo.cs
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\RabbitMqSamples.Sender.csproj.CoreCompileInputs.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\RabbitMqSamples.Sender.csproj.CopyComplete
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\RabbitMqSamples.Sender.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\refint\RabbitMqSamples.Sender.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\RabbitMqSamples.Sender.pdb
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\RabbitMqSamples.Sender.genruntimeconfig.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Sender\obj\Debug\net6.0\ref\RabbitMqSamples.Sender.dll

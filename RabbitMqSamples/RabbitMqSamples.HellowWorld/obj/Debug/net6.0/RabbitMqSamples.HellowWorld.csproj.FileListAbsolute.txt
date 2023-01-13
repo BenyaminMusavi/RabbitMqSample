@@ -1,0 +1,17 @@
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\bin\Debug\net6.0\RabbitMqSamples.HellowWorld.exe
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\bin\Debug\net6.0\RabbitMqSamples.HellowWorld.deps.json
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\bin\Debug\net6.0\RabbitMqSamples.HellowWorld.runtimeconfig.json
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\bin\Debug\net6.0\RabbitMqSamples.HellowWorld.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\bin\Debug\net6.0\RabbitMqSamples.HellowWorld.pdb
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\RabbitMqSamples.HellowWorld.csproj.AssemblyReference.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\RabbitMqSamples.HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\RabbitMqSamples.HellowWorld.AssemblyInfoInputs.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\RabbitMqSamples.HellowWorld.AssemblyInfo.cs
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\RabbitMqSamples.HellowWorld.csproj.CoreCompileInputs.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\RabbitMqSamples.HellowWorld.csproj.CopyComplete
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\RabbitMqSamples.HellowWorld.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\refint\RabbitMqSamples.HellowWorld.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\RabbitMqSamples.HellowWorld.pdb
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\RabbitMqSamples.HellowWorld.genruntimeconfig.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.HellowWorld\obj\Debug\net6.0\ref\RabbitMqSamples.HellowWorld.dll

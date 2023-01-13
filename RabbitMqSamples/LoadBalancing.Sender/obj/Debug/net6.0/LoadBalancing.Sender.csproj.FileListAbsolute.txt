@@ -1,0 +1,17 @@
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\bin\Debug\net6.0\LoadBalancing.Sender.exe
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\bin\Debug\net6.0\LoadBalancing.Sender.deps.json
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\bin\Debug\net6.0\LoadBalancing.Sender.runtimeconfig.json
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\bin\Debug\net6.0\LoadBalancing.Sender.dll
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\bin\Debug\net6.0\LoadBalancing.Sender.pdb
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\LoadBalancing.Sender.csproj.AssemblyReference.cache
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\LoadBalancing.Sender.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\LoadBalancing.Sender.AssemblyInfoInputs.cache
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\LoadBalancing.Sender.AssemblyInfo.cs
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\LoadBalancing.Sender.csproj.CoreCompileInputs.cache
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\LoadBalancing.Sender.csproj.CopyComplete
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\LoadBalancing.Sender.dll
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\refint\LoadBalancing.Sender.dll
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\LoadBalancing.Sender.pdb
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\LoadBalancing.Sender.genruntimeconfig.cache
+D:\RabbitMqSample\RabbitMqSamples\LoadBalancing.Sender\obj\Debug\net6.0\ref\LoadBalancing.Sender.dll

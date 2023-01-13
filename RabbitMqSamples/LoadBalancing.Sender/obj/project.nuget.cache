@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t+0EolnwdgSxHw9iox/IwrXvdUiO2xJ8QVJbCq1n+RqtAj6D2OaC5BuETZuzIuEcZvuTNuwgYM1M0Q+n/jhqjQ==",
+  "success": true,
+  "projectFilePath": "D:\\RabbitMqSample\\RabbitMqSamples\\LoadBalancing.Sender\\LoadBalancing.Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benyamin\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Benyamin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Benyamin\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

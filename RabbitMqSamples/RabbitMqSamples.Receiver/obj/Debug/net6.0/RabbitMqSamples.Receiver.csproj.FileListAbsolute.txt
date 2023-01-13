@@ -1,0 +1,17 @@
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\bin\Debug\net6.0\RabbitMqSamples.Receiver.exe
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\bin\Debug\net6.0\RabbitMqSamples.Receiver.deps.json
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\bin\Debug\net6.0\RabbitMqSamples.Receiver.runtimeconfig.json
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\bin\Debug\net6.0\RabbitMqSamples.Receiver.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\bin\Debug\net6.0\RabbitMqSamples.Receiver.pdb
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\RabbitMqSamples.Receiver.csproj.AssemblyReference.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\RabbitMqSamples.Receiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\RabbitMqSamples.Receiver.AssemblyInfoInputs.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\RabbitMqSamples.Receiver.AssemblyInfo.cs
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\RabbitMqSamples.Receiver.csproj.CoreCompileInputs.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\RabbitMqSamples.Receiver.csproj.CopyComplete
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\RabbitMqSamples.Receiver.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\refint\RabbitMqSamples.Receiver.dll
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\RabbitMqSamples.Receiver.pdb
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\RabbitMqSamples.Receiver.genruntimeconfig.cache
+D:\RabbitMqSample\RabbitMqSamples\RabbitMqSamples.Receiver\obj\Debug\net6.0\ref\RabbitMqSamples.Receiver.dll
